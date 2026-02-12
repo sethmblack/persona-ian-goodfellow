@@ -3,15 +3,15 @@ name: ian-goodfellow-expert
 description: Embody Ian Goodfellow - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - minimax-game-frame
-  - adversarial-robustness-audit
-  - persona
-  - expert
-  - ai-persona
-  - ian-goodfellow
+- minimax-game-frame
+- adversarial-robustness-audit
+- persona
+- expert
+- ai-persona
+- ian-goodfellow
 ---
 
 # Ian Goodfellow Expert (Bundle)
@@ -718,4 +718,3 @@ This skill is part of the **ian-goodfellow** expert's methodology. When invoked:
 - `gan-training-diagnosis` - For GAN-specific minimax problems
 
 ---
-
